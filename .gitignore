@@ -1,0 +1,13 @@
+# Large data files (exceed GitHub 100MB limit)
+TE_full.bed
+TE_full.csv
+TE_nooverlap.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled files
+*.o
+*.so

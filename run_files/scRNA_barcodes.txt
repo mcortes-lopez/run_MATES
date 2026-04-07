@@ -1,0 +1,4 @@
+/path/to/barcodes/sample01_barcodes.txt
+/path/to/barcodes/sample02_barcodes.txt
+...
+/path/to/barcodes/sampleN_barcodes.txt

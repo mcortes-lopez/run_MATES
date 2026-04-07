@@ -1,0 +1,4 @@
+/path/to/bam/file/sample01_tagged.bam
+/path/to/bam/file/sample02_tagged.bam
+...
+/path/to/bam/file/sampleN_tagged.bam
